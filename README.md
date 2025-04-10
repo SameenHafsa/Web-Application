@@ -1,4 +1,4 @@
-Snake Game
+Web-Application 
 
 A fun and interactive dice-based game built using Java. 
 
