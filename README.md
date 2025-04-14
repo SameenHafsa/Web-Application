@@ -1,6 +1,6 @@
 Wb-Application 
 
-A fun and interactive dice-based game built using ASP.NET
+Generated a Web Application which demons using ASP.NET on Visual Studio
 
 🚀 Live Demo
 --
