@@ -1,6 +1,6 @@
 Wb-Application 
 
-A fun and interactive dice-based game built using Java. 
+A fun and interactive dice-based game built using ASP.NET
 
 🚀 Live Demo
 --
