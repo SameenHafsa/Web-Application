@@ -4,15 +4,14 @@ Generated a Healthcare RegistrationWeb Application using ASP.NET on Visual Studi
 
 
 🛠️ Features
---
+-- 
+                  Site Master
 
-Site Master
+                  Registration Page
 
-Registration Page
+                  Thank you page
 
-Thank you page
-
-Error Page
+                  Error Page
 
 
 🖥️ Technologies Used:
