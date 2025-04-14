@@ -1,22 +1,22 @@
 Wb-Application 
 
-Generated a Web Application which demons using ASP.NET on Visual Studio
-
-🚀 Live Demo
---
-ADD
+Generated a Healthcare RegistrationWeb Application using ASP.NET on Visual Studio
 
 
 🛠️ Features
 --
 
-            Interactive animations.
+Site Master
 
-            📱 Clean and responsive UI design.
+Registration Page
 
-            🔄 Game reset functionality.
+Thank you page
+
+Error Page
 
 
 🖥️ Technologies Used:
 --
                       ASP.NET
+
+                      Visual Studio Code
