@@ -1,6 +1,6 @@
-Wb-Application 
+Web-Application 
 
-Generated a Healthcare RegistrationWeb Application using ASP.NET on Visual Studio
+Created a Registration Web Application using ASP.NET on Visual Studio
 
 
 🛠️ Features
